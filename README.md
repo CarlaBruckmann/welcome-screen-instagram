@@ -2,7 +2,7 @@
 
 
 ### Reprodução da página de login do Instagram, abordando o conceito de CSS Flexbox e responsividade. 
-###Projeto desenvolvido para prática e participação do Lab "Recriando a página inicial do Instagram" da Digital Innovation One, mediado por Gabriela Pinheiro.  
+### Projeto desenvolvido para prática e participação do Lab "Recriando a página inicial do Instagram" da Digital Innovation One, mediado por Gabriela Pinheiro.  
 
 
 
