@@ -7,14 +7,18 @@
 
 
 
-#### 🌎 Link para a página: [Página inicial Instagram](https://github.com/CarlaBruckmann/welcome-screen-instagram/blob/main/Instagram/index.html)
+#### 🌎 [Página inicial Instagram](https://bit.ly/39JMaMT)
 
+[pré-visualização - Página Inicial]
+<img src="https://github.com/CarlaBruckmann/welcome-screen-instagram/blob/main/preview/preview.png" alt="preview página inicial" width="100%"/>
 
-[pré-visualização - Página inicial]
-![Preview](preview.png)
+<br>
+
 
 [pré-visualização - index.html]
-![Preview](preview-index.png)
+<img src="https://github.com/CarlaBruckmann/welcome-screen-instagram/blob/main/preview/preview-index.png" alt="preview index" width="100%"/>
+
+<br>
 
 [pré-visualização - styles.css]
-![Preview](preview-styles.png)
+<img src="https://github.com/CarlaBruckmann/welcome-screen-instagram/blob/main/preview/preview-styles.png" alt="preview style" width="100%"/>
